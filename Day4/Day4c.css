@@ -1,0 +1,16 @@
+.BodyStyle{
+    background-color: rgb(221, 96, 184);
+    margin-top: 50px;
+}
+
+.SectionStyle{
+    border: solid black;
+    height: 100%;
+    width: 80%;
+    background-color:rgb(118, 99, 226) ;
+    text-align: center;
+    padding: 30px;
+    font-size: 50px;
+    color: white;
+   }
+ 
